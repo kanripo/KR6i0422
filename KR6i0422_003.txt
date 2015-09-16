@@ -1,28 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:13.507946
+#+DATE: 2015-08-30 20:19:14.839611
 #+TITLE: 諸法集要經
 #+PROPERTY: CBETA_ID T17n0728
 #+PROPERTY: ID KR6i0422
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 728
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0422_T_000-0458a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0422_T_003-0469c> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《諸法集要經》卷第三¶
+《諸法集要經》卷第三¶
 ¶
 觀無畏尊者集¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-:PROPERTIES:
-:head: 不放逸品第六之餘
-:END:
-¶
+不放逸品第六之餘¶
 
 #+BEGIN_VERSE
 「　於善當奉行，
@@ -386,11 +382,7 @@
 #+END_VERSE
 」¶
 
-7訶厭五欲品(三-四)
-:PROPERTIES:
-:head: 訶厭五欲品第七
-:END:
-¶
+訶厭五欲品第七¶
 
 #+BEGIN_VERSE
 「　欲為第一誑，
@@ -765,7 +757,7 @@
 　何曾有樂處？¶
 　若於欲作意，
 　剎那則增長，¶
-　諸天及世人，
+　諸天及世八，
 　由此而墮落。¶
 　於欲常耽迷，
 　為最極險惡，¶

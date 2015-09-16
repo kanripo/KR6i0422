@@ -1,28 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:13.466259
+#+DATE: 2015-08-30 20:19:14.809165
 #+TITLE: 諸法集要經
 #+PROPERTY: CBETA_ID T17n0728
 #+PROPERTY: ID KR6i0422
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 728
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0422_T_000-0458a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0422_T_002-0463c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《諸法集要經》卷第二¶
+《諸法集要經》卷第二¶
 ¶
 觀無畏尊者集¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-:PROPERTIES:
-:head: 無常品第五之餘
-:END:
-¶
+無常品第五之餘¶
 
 #+BEGIN_VERSE
 「　爾時諸天人，
@@ -349,7 +345,7 @@
 　福盡力還墜，
 　漂淪於有海，¶
 　若樂若苦因，
-　自受無差忒。¶
+　自受無差⬤。¶
 　由昔修善業，
 　得生於諸天，¶
 　著樂廢淨因，
@@ -622,11 +618,7 @@
 #+END_VERSE
 」¶
 
-6不放逸品(二-三)
-:PROPERTIES:
-:head: 不放逸品第六
-:END:
-¶
+不放逸品第六¶
 
 #+BEGIN_VERSE
 「　若人樂放逸，
@@ -634,7 +626,7 @@
 　由彼癡所迷，
 　去菩提即遠。¶
 　不樂放逸者，
-　𧵋放逸如讎，¶
+　[貝*示]放逸如讎，¶
 　諸天因此故，
 　即墮於地獄。¶
 　眾生若放逸，
