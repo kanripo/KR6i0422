@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 諸法集要經
+#+DATE: 2015-08-30 20:19:14.104270
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6i0422
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+¶¶
