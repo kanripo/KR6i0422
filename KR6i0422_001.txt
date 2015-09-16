@@ -1,31 +1,26 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:13.428947
+#+DATE: 2015-08-30 20:19:15.408201
 #+TITLE: 諸法集要經
 #+PROPERTY: CBETA_ID T17n0728
 #+PROPERTY: ID KR6i0422
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 728
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0422_T_000-0458a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0422_T_001-0458a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.728¶
-
- 《諸法集要經》卷第一¶
+No. 728¶
+《諸法集要經》卷第一¶
 ¶
 觀無畏尊者集(總二千六百八十四頌)¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-1伏除煩惱品(一)
-:PROPERTIES:
-:head: 伏除煩惱品第一
-:END:
-¶
+伏除煩惱品第一¶
 
 #+BEGIN_VERSE
 「　稽首三有最勝尊，
@@ -161,11 +156,7 @@ No.728¶
 #+END_VERSE
 」¶
 
-2說法品(一)
-:PROPERTIES:
-:head: 說法品第二
-:END:
-¶
+說法品第二¶
 
 #+BEGIN_VERSE
 「　若人善說法，
@@ -330,11 +321,7 @@ No.728¶
 #+END_VERSE
 」¶
 
-3厭離自身品(一)
-:PROPERTIES:
-:head: 厭離自身品第三
-:END:
-¶
+厭離自身品第三¶
 
 #+BEGIN_VERSE
 「　謂利養名聞、
@@ -422,11 +409,7 @@ No.728¶
 」
 <pb:KR6i0422_T_001-0460b>¶
 
-4遠離不善品(一)
-:PROPERTIES:
-:head: 遠離不善品第四
-:END:
-¶
+遠離不善品第四¶
 
 #+BEGIN_VERSE
 「　若人於五欲，
@@ -692,11 +675,7 @@ No.728¶
 #+END_VERSE
 」¶
 
-5無常品(一-二)
-:PROPERTIES:
-:head: 無常品第五
-:END:
-¶
+無常品第五¶
 
 #+BEGIN_VERSE
 「　盡快樂邊際，

@@ -1,29 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:13.675137
+#+DATE: 2015-08-30 20:19:15.618530
 #+TITLE: 諸法集要經
 #+PROPERTY: CBETA_ID T17n0728
 #+PROPERTY: ID KR6i0422
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 728
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0422_T_000-0458a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0422_T_007-0492c> 
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《諸法集要經》卷第七¶
+《諸法集要經》卷第七¶
 ¶
 觀無畏尊者集¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-:PROPERTIES:
-:head: 說罪品第十五之餘
-:END:
-¶
+說罪品第十五之餘¶
 
 #+BEGIN_VERSE
 「　明了罪福相，
@@ -159,11 +155,7 @@
 #+END_VERSE
 」¶
 
-16地獄品(七)
-:PROPERTIES:
-:head: 地獄品第十六
-:END:
-¶
+地獄品第十六¶
 
 #+BEGIN_VERSE
 「　若人邪活命，
@@ -281,7 +273,7 @@
 　不須生悔恨，
 　於苦當安忍。¶
 　愚夫造眾罪，
-　作已生驚怖，¶
+　作己生驚怖，¶
 　業果常相隨，
 　皆從因緣起。¶
 　於善何曾修，
@@ -322,7 +314,7 @@
 　應知苦因緣，
 　自作而自受。¶
 　汝為愛索拘，
-　狂亂無慚𧹞，¶
+　狂亂無慚[赤*皮]，¶
 　受極險治罰，
 　彼苦無能說。¶
 　若人造眾惡，
@@ -456,7 +448,7 @@
 　獄卒咸謂言：
 　如彼因而受。¶
 　不遠離諸惡，
-　作已還復造，¶
+　作己還復造，¶
 　彼因即增長，
 　受報亦如此。¶
 　若畏未來苦，
@@ -627,7 +619,7 @@
 　假使海深廣，
 　燒然亦枯涸。¶
 　若人了諸惡，
-　因果非可樂，¶
+　困果非可樂，¶
 　常當正思惟，
 　於罪不應作。¶
 　謂佛法僧寶，
@@ -739,11 +731,7 @@
 #+END_VERSE
 」¶
 
-17餓鬼品(七)
-:PROPERTIES:
-:head: 餓鬼品第十六
-:END:
-¶
+餓鬼品第十六¶
 
 #+BEGIN_VERSE
 「　若人不行施，
@@ -875,11 +863,7 @@
 #+END_VERSE
 」¶
 
-18畜生品(七)
-:PROPERTIES:
-:head: 畜生品第十八
-:END:
-¶
+畜生品第十八¶
 
 #+BEGIN_VERSE
 「　彼畜生苦報，
@@ -926,11 +910,7 @@
 #+END_VERSE
 」¶
 
-19飢乏業報品(七)
-:PROPERTIES:
-:head: 飢乏業報品第十九
-:END:
-¶
+飢乏業報品第十九¶
 
 #+BEGIN_VERSE
 「　樂作不饒益，

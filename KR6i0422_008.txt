@@ -1,30 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:13.713126
+#+DATE: 2015-08-30 20:19:15.648169
 #+TITLE: 諸法集要經
 #+PROPERTY: CBETA_ID T17n0728
 #+PROPERTY: ID KR6i0422
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 728
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0422_T_000-0458a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0422_T_008-0498a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《諸法集要經》卷第八¶
+《諸法集要經》卷第八¶
 ¶
 觀無畏尊者集¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-20捨離懈怠品(八)
-:PROPERTIES:
-:head: 捨離懈怠品第二十
-:END:
-¶
+捨離懈怠品第二十¶
 
 #+BEGIN_VERSE
 「　謂由彼劣慧，
@@ -156,11 +151,7 @@
 #+END_VERSE
 」¶
 
-21悲愍有情品(八)
-:PROPERTIES:
-:head: 悲愍有情品第二十一
-:END:
-¶
+悲愍有情品第二十一¶
 
 #+BEGIN_VERSE
 「　謂身語意業，
@@ -288,11 +279,7 @@
 #+END_VERSE
 」¶
 
-22布施品(八)
-:PROPERTIES:
-:head: 布施品第二十二
-:END:
-¶
+布施品第二十二¶
 
 #+BEGIN_VERSE
 「　由淨施所感，
@@ -498,11 +485,7 @@
 #+END_VERSE
 」¶
 
-23持戒品(八)
-:PROPERTIES:
-:head: 持戒品第二十三
-:END:
-¶
+持戒品第二十三¶
 
 #+BEGIN_VERSE
 「　戒為最勝財，
@@ -846,11 +829,7 @@
 #+END_VERSE
 」¶
 
-24忍辱品(八)
-:PROPERTIES:
-:head: 忍辱品第二十四
-:END:
-¶
+忍辱品第二十四¶
 
 #+BEGIN_VERSE
 「　善安住於忍，
@@ -917,11 +896,7 @@
 #+END_VERSE
 」¶
 
-25精進品(八)
-:PROPERTIES:
-:head: 精進品第二十五
-:END:
-¶
+精進品第二十五¶
 
 #+BEGIN_VERSE
 「　為長養正法，
@@ -967,11 +942,7 @@
 #+END_VERSE
 」¶
 
-26禪定品(八)
-:PROPERTIES:
-:head: 禪定品第二十六
-:END:
-¶
+禪定品第二十六¶
 
 #+BEGIN_VERSE
 「　若人修諸定，
@@ -1034,11 +1005,7 @@
 #+END_VERSE
 」¶
 
-27勝慧品(八)
-:PROPERTIES:
-:head: 勝慧品第二十七
-:END:
-¶
+勝慧品第二十七¶
 
 #+BEGIN_VERSE
 「　由慧力為先，

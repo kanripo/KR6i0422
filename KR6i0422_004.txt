@@ -1,28 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:13.551175
+#+DATE: 2015-08-30 20:19:15.511256
 #+TITLE: 諸法集要經
 #+PROPERTY: CBETA_ID T17n0728
 #+PROPERTY: ID KR6i0422
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 728
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0422_T_000-0458a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0422_T_004-0475c> 
 #+PROPERTY: JUAN 4
 ¶
-
- 《諸法集要經》卷第四¶
+《諸法集要經》卷第四¶
 ¶
 觀無畏尊者集¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-:PROPERTIES:
-:head: 訶厭五欲品第七之餘
-:END:
-¶
+訶厭五欲品第七之餘¶
 
 #+BEGIN_VERSE
 「　欲境如夢事，
@@ -69,7 +65,7 @@
 　則是諸苦本，
 <pb:KR6i0422_T_004-0476a>¶
 　如乾闥婆城，
-　當知不久住。¶
+　當知不久往。¶
 　若於欲生貪，
 　彼瞋則隨轉，¶
 　如是諸眾生，
@@ -93,11 +89,7 @@
 #+END_VERSE
 」¶
 
-8離愛品(四)
-:PROPERTIES:
-:head: 離愛品第八
-:END:
-¶
+離愛品第八¶
 
 #+BEGIN_VERSE
 「　愛火起於心，
@@ -534,11 +526,7 @@
 #+END_VERSE
 」¶
 
-9離欲邪行品(四)
-:PROPERTIES:
-:head: 離欲邪行品第九
-:END:
-¶
+離欲邪行品第九¶
 
 #+BEGIN_VERSE
 「　女人為罪本，
@@ -862,11 +850,7 @@
 #+END_VERSE
 」¶
 
-10離酒過失品(四)
-:PROPERTIES:
-:head: 離酒過失品第十
-:END:
-¶
+離酒過失品第十¶
 
 #+BEGIN_VERSE
 「　此說酒為毒，
@@ -1054,7 +1038,7 @@
 　空說有何益？¶
 　自不能達解，
 　何由悟於他？¶
-　發麁獷言詞，
+　發麁礦言詞，
 　此非善說法，¶
 　違背於正理，
 　識者咸譏誚，¶
