@@ -1,30 +1,25 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:13.792767
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:33
 #+TITLE: 諸法集要經
 #+PROPERTY: CBETA_ID T17n0728
 #+PROPERTY: ID KR6i0422
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 728
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0422_T_000-0458a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0422_T_010-0510c> 
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《諸法集要經》卷第十¶
+《諸法集要經》卷第十¶
 ¶
 觀無畏尊者集¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-32生天品(一○)
-:PROPERTIES:
-:head: 生天品第三十二
-:END:
-¶
+* 生天品第三十二¶
 
 #+BEGIN_VERSE
 「　若人修眾善，
@@ -526,15 +521,11 @@
 　如是大義利，
 　則為彼樂因，¶
 　眾善當奉行，
-　是人生彼天。
+　是人生彼天。」
 #+END_VERSE
-」¶
-
-33快樂品(一○)
-:PROPERTIES:
-:head: 快樂品第三十三
-:END:
 ¶
+
+* 快樂品第三十三¶
 
 #+BEGIN_VERSE
 「　定為功德林，
@@ -817,15 +808,11 @@
 　未來諸苦惱，
 　以智而對治，¶
 　由罪生苦因，
-　不作則無咎。
+　不作則無咎。」
 #+END_VERSE
-」¶
-
-34善知識品(一○)
-:PROPERTIES:
-:head: 善知識品第三十四
-:END:
 ¶
+
+* 善知識品第三十四¶
 
 #+BEGIN_VERSE
 「　由自他對待，
@@ -908,16 +895,12 @@
 　常親近智者，
 　不生下種姓，¶
 　勤修彼福慧，
-　善住於勝族。
+　善住於勝族。」
 #+END_VERSE
-」
+
 <pb:KR6i0422_T_010-0515c>¶
 
-35王者治國品(一○)
-:PROPERTIES:
-:head: 王者治國品第三十五
-:END:
-¶
+* 王者治國品第三十五¶
 
 #+BEGIN_VERSE
 「　若王行正法，
@@ -953,7 +936,7 @@
 　心離垢寂靜，
 　當得為天主。¶
 　不聽諂佞言，
-　樂正入所說，¶
+　樂正人所說，¶
 　如甘露之美，
 　當得為天主。¶
 　常樂聞正法，
@@ -1061,15 +1044,11 @@
 　了知因果相，
 　則無相攻罰，¶
 　一切處吉祥，
-　自他獲安隱。
+　自他獲安隱。」
 #+END_VERSE
-」¶
-
-36稱讚功德品(一○)
-:PROPERTIES:
-:head: 稱讚功德品第三十六
-:END:
 ¶
+
+* 稱讚功德品第三十六¶
 
 #+BEGIN_VERSE
 「　歸依正遍知，
@@ -1136,7 +1115,7 @@
 　以無盡法智，
 　作廣大光明，¶
 　功德難稱量，
-　於聖中最勝。
+　於聖中最勝。」
 #+END_VERSE
-」¶
+¶
 《諸法集要經》卷第十

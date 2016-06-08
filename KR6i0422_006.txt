@@ -1,30 +1,25 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:13.631561
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:33
 #+TITLE: 諸法集要經
 #+PROPERTY: CBETA_ID T17n0728
 #+PROPERTY: ID KR6i0422
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 728
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0422_T_000-0458a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0422_T_006-0486b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《諸法集要經》卷第六¶
+《諸法集要經》卷第六¶
 ¶
 觀無畏尊者集¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-13福非福業品(六)
-:PROPERTIES:
-:head: 福非福業品第十三
-:END:
-¶
+* 福非福業品第十三¶
 
 #+BEGIN_VERSE
 「　所造作諸業，
@@ -592,15 +587,11 @@
 　當以慧揀擇，
 　如理而修作，¶
 　是為調御師，
-　永脫諸煩惱。
+　永脫諸煩惱。」
 #+END_VERSE
-」¶
-
-14教示眾生品(六)
-:PROPERTIES:
-:head: 教示眾生品第十四
-:END:
 ¶
+
+* 教示眾生品第十四¶
 
 #+BEGIN_VERSE
 「　謂貪恚癡垢，
@@ -870,7 +861,7 @@
 　五欲如迅流，
 　漂淪難出離，¶
 　當以智舡筏，
-　於彼能超越。¶
+　於彼彼超越。¶
 　由彼愚癡心，
 　常樂著諸欲，¶
 　輪迴五趣中，
@@ -911,15 +902,11 @@
 　當知彼智火，
 　能焚煩惱山，¶
 　惑業既無餘，
-　常棲寂靜樂。
+　常棲寂靜樂。」
 #+END_VERSE
-」¶
-
-15說罪品(六-七)
-:PROPERTIES:
-:head: 說罪品第十五
-:END:
 ¶
+
+* 說罪品第十五¶
 
 #+BEGIN_VERSE
 「　謂由彼作意，
@@ -1077,7 +1064,7 @@
 　能破諸惡業，¶
 　譬如壓胡麻，
 　華壞香不散。¶
-　常樂著五欲，
+　常樂著五樂，
 　散亂無安忍，¶
 　懈怠虛妄言，
 　彼則定無善。¶
@@ -1104,9 +1091,9 @@
 　未聞者令聞，
 　聞已能憶念，¶
 　惡趣尚生天，
-　何況具智者？
+　何況具智者？」
 #+END_VERSE
-」¶
+¶
 《諸法集要經》卷第六
 <pb:KR6i0422_T_006-0492c>¶
 

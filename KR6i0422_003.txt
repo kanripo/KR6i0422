@@ -1,28 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:13.507946
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:33
 #+TITLE: 諸法集要經
 #+PROPERTY: CBETA_ID T17n0728
 #+PROPERTY: ID KR6i0422
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 728
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0422_T_000-0458a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0422_T_003-0469c> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《諸法集要經》卷第三¶
+《諸法集要經》卷第三¶
 ¶
 觀無畏尊者集¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-:PROPERTIES:
-:head: 不放逸品第六之餘
-:END:
-¶
+* 不放逸品第六之餘¶
 
 #+BEGIN_VERSE
 「　於善當奉行，
@@ -32,9 +28,9 @@
 　彼放逸眾生，
 　為美言所誑，¶
 　常迷醉其心，
-　於苦唯己分。
+　於苦唯己分。」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　不怖於苦惱，
@@ -229,7 +225,7 @@
 　唯有善惡業，
 　於後而隨逐。¶
 　遠離彼惡作，
-　善修諸善行，¶
+　專修諸善行，¶
 　棄捨斯過咎，
 　常樂不放逸。¶
 　放逸輪迴本，
@@ -374,23 +370,19 @@
 　放逸為極苦，
 　不放逸最樂。¶
 　放逸不放逸，
-　於此善分別。
+　於此善分別。」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　假使百千俱胝劫，
 　墮於惡趣受極苦，¶
 　是故不應作放逸，
-　則同諸佛超彼岸。
+　則同諸佛超彼岸。」
 #+END_VERSE
-」¶
-
-7訶厭五欲品(三-四)
-:PROPERTIES:
-:head: 訶厭五欲品第七
-:END:
 ¶
+
+* 訶厭五欲品第七¶
 
 #+BEGIN_VERSE
 「　欲為第一誑，
@@ -765,7 +757,7 @@
 　何曾有樂處？¶
 　若於欲作意，
 　剎那則增長，¶
-　諸天及世人，
+　諸天及世八，
 　由此而墮落。¶
 　於欲常耽迷，
 　為最極險惡，¶
@@ -1079,9 +1071,9 @@
 　此現在五欲，
 　能生諸過患，¶
 　於樂不染著，
-　是名為智者。
+　是名為智者。」
 #+END_VERSE
-」¶
+¶
 《諸法集要經》卷第三
 <pb:KR6i0422_T_003-0475c>¶
 

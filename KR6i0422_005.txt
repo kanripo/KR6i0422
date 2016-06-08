@@ -1,30 +1,25 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:13.593606
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:33
 #+TITLE: 諸法集要經
 #+PROPERTY: CBETA_ID T17n0728
 #+PROPERTY: ID KR6i0422
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 728
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0422_T_000-0458a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0422_T_005-0481b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《諸法集要經》卷第五¶
+《諸法集要經》卷第五¶
 ¶
 觀無畏尊者集¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-11治心品(五)
-:PROPERTIES:
-:head: 治心品第十一
-:END:
-¶
+* 治心品第十一¶
 
 #+BEGIN_VERSE
 「　佛宣轉諸法，
@@ -190,7 +185,7 @@
 　諂曲多動轉，¶
 　若依彼心者，
 　乃求趣險難。¶
-　當離心過失，
+　當難心過失，
 　則諸根寂靜，¶
 　不著罪非法，
 　善達於實相。¶
@@ -462,15 +457,11 @@
 　是心有大力，
 　暴惡難防護，¶
 　智者善調伏，
-　得離諸憂怖。
+　得離諸憂怖。」
 #+END_VERSE
-」¶
-
-12離惡語言品(五)
-:PROPERTIES:
-:head: 離惡語言品第十二
-:END:
 ¶
+
+* 離惡語言品第十二¶
 
 #+BEGIN_VERSE
 「　智者離惡言，
@@ -713,7 +704,7 @@
 　住決定寂靜，¶
 　離眷屬纏縛，
 　不生和合想。¶
-　兩舌如惡蠎，
+　兩舌如惡蟒，
 　常處於窟穴，¶
 　若離彼過者，
 　則無諸災橫。¶
@@ -887,8 +878,8 @@
 　此真實功德，
 　能生寂靜樂，¶
 　智者離妄言，
-　諸佛所稱讚。
+　諸佛所稱讚。」
 #+END_VERSE
-」¶
+¶
 《諸法集要經》卷第五¶
 
